@@ -1,6 +1,6 @@
 # Interesting Scripts
 
-A growing collection of fun, cool, and interesting scripts. Two new scripts are added every day!
+A growing collection of fun, cool, and interesting scripts.
 
 ## Categories
 
